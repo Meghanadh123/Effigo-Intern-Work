@@ -1,0 +1,13 @@
+package Testing;
+
+
+
+
+public class AssertEqualsTheroy {
+	
+
+	public void myTest()
+	{
+		
+	}
+}

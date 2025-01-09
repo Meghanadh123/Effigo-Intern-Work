@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Practise2" project="Exercises" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="Testing.Exercises.Practise2" time="0.009" displayname="Practise2" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.Practise2]">
+    <testcase name="test1" classname="Testing.Exercises.Practise2" time="0.008" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.Practise2]/[method:test1()]"/>
+    <testcase name="test2" classname="Testing.Exercises.Practise2" time="0.001" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.Practise2]/[method:test2()]"/>
+  </testsuite>
+</testrun>

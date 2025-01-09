@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ArrayTheory" project="Exercises" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="Testing.Exercises.ArrayTheory" time="0.011" displayname="ArrayTheory" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.ArrayTheory]">
+    <testcase name="myTest" classname="Testing.Exercises.ArrayTheory" time="0.011" displayname="myTest()" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.ArrayTheory]/[method:myTest()]">
+      <failure>
+        <expected>3</expected>
+        <actual>4</actual>
+        org.opentest4j.AssertionFailedError: array lengths differ, expected: &lt;3&gt; but was: &lt;4&gt;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArraysHaveSameLength(AssertArrayEquals.java:428)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:237)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:87)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:83)
+	at org.junit.jupiter.api.Assertions.assertArrayEquals(Assertions.java:1281)
+	at Testing.Exercises.ArrayTheory.myTest(ArrayTheory.java:19)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+
+      </failure>
+    </testcase>
+  </testsuite>
+</testrun>

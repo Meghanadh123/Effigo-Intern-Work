@@ -1,0 +1,13 @@
+package Testing.Exercises;
+
+import org.junit.jupiter.api.Test;
+
+public class AssertEqualsTest {
+	
+	@Test
+	public void myTest()
+	{
+		String s=
+	}
+
+}

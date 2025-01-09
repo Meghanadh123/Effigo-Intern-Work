@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AssertEqualsTheory" project="Exercises" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="Testing.Exercises.AssertEqualsTheory" time="0.013" displayname="AssertEqualsTheory" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.AssertEqualsTheory]">
+    <testcase name="myTest" classname="Testing.Exercises.AssertEqualsTheory" time="0.011" displayname="myTest()" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.AssertEqualsTheory]/[method:myTest()]"/>
+    <testcase name="notEquals" classname="Testing.Exercises.AssertEqualsTheory" time="0.001" displayname="notEquals()" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.AssertEqualsTheory]/[method:notEquals()]"/>
+  </testsuite>
+</testrun>

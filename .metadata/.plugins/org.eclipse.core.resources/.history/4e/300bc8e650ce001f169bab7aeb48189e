@@ -1,0 +1,8 @@
+package Testing.Exercises;
+
+public class Practise1 {
+		int x=2;
+		int y=2;
+		int z=3;
+		public void tes
+}

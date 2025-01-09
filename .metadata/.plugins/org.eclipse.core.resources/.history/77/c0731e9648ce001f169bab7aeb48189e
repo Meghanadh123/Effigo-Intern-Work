@@ -1,0 +1,16 @@
+package Testing.Exercises;
+
+import java.util.HashSet;
+
+public class StringUtilities {
+		HashSet<Character> lower=new HashSet<>();
+		HashSet<Character> upper=new HashSet<>();
+		
+		public StringUtilities()
+		{
+			lower.add('a');
+			lower.add('e');
+			lower.add('i');
+			lower.add()
+		}
+}

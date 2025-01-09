@@ -1,0 +1,12 @@
+package Testing;
+import org.junit.jupiter.api.Test;
+
+
+public class AssertEqualsTheroy {
+	
+    @Test
+	public void myTest()
+	{
+		
+	}
+}

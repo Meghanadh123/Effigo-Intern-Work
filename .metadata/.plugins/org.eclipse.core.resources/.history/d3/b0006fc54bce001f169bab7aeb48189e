@@ -1,0 +1,10 @@
+package Testing.Exercises;
+
+public class AssertTrueTheroy {
+	
+	@test
+	public void test1()
+	{
+		
+	}
+}

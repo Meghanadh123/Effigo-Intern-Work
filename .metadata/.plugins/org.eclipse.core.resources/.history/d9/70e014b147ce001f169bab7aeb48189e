@@ -1,0 +1,20 @@
+package Testing.Exercises;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.*;
+import org.junit.jupiter.api.Test;
+
+
+public class AssertEqualsTheory {
+	
+	@Test
+	public void myTest()
+	{
+		assertEquals(2,2);
+		System.out.println("Hello");
+	}
+	
+	public void notEquals()
+	{
+		assertNotEquals(1)
+	}
+}

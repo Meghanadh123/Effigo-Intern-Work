@@ -1,0 +1,8 @@
+package Testing.Exercises;
+
+import java.util.HashSet;
+
+public class StringUtilities {
+		HashSet<Character> lower=new HashSet<>();
+		
+}
