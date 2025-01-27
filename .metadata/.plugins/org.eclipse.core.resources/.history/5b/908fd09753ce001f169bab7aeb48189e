@@ -1,5 +1,0 @@
-package Testing.Exercises;
-
-public class GraphicUtilities {
-	public static void dim(int[] rgbArray)
-}

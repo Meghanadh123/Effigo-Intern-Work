@@ -1,8 +1,0 @@
-package Testing.Exercises;
-
-public class AssertTrueTheroy {
-	public void test1()
-	{
-		
-	}
-}

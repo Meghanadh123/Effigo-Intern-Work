@@ -1,8 +1,0 @@
-package Testing.Exercises;
-
-public class GraphicUtilities {
-	public static void dim(int[] rgbArray)
-	{
-		rgbArray[0]=Math.max(0, )
-	}
-}

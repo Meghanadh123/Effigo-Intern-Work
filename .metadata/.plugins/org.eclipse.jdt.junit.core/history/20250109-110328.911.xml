@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="AssertEqualsTest" project="Exercises" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="Testing.Exercises.AssertEqualsTest" time="0.008" displayname="AssertEqualsTest" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.AssertEqualsTest]">
-    <testcase name="myTest" classname="Testing.Exercises.AssertEqualsTest" time="0.008" displayname="myTest()" uniqueid="[engine:junit-jupiter]/[class:Testing.Exercises.AssertEqualsTest]/[method:myTest()]"/>
-  </testsuite>
-</testrun>

@@ -1,8 +1,0 @@
-package Testing.Exercises;
-
-
-
-public class StringUtilities {
-		HashSet<Character> h1=new HashSet<>();
-		
-}

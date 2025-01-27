@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  app:
+    image: Effigo/elms-springboot-project:v1 
+    ports:
+      - 8080:8080
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/sdp?autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
+    depends_on:
+      - db
+
+  db:
+    image: mysql:9.1.0
+    environment:
+      DATABASE_HOST: docker-mysql
+      DATABASE_PORT: 3306
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: sdp
+     # MYSQL_USER: root
+      #MYSQL_PASSWORD: root
